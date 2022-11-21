@@ -1,0 +1,15 @@
+{
+  "name": "single-page-application",
+  "version": "1.0.0",
+  "description": "SPA",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "ip",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
