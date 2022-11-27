@@ -70,6 +70,10 @@ input, textarea {
     padding: 5px 10px;
     color: white;
   }
+
+form {
+    width: 50%;
+}
  form button {
     background-color: green;
  }
